@@ -2,6 +2,6 @@
 layout:slide
 title:"welcome to our second slide!"
 ---
-Your text
+you text are
 Use the left arrow to go back!
 commit
